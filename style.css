@@ -1,0 +1,13 @@
+*{
+    marigin : 0;
+    padding : 0;
+}
+.header{
+    min-height:100vh;
+    width:100%;
+    background-image:linear-gradient(rgba(32, 150, 113, 0.4),rgba(27, 152, 164, 0.4)),url(eduford_img/banner.png);
+    background-position :center;
+    background-size:cover;
+    position:relative;
+
+}
